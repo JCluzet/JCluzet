@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joseph Cluzet</h1>
+![Jo](https://user-images.githubusercontent.com/55356071/111153284-0c1eda00-8592-11eb-923b-d96ba1350918.gif)
 <h3 align="center">A freelance developer from Paris</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcluzet&label=Profile%20views&color=0e75b6&style=flat" alt="jcluzet" /> </p>
