@@ -12,7 +12,7 @@
 
 - 📄  Visit my website [Cluzet.fr](Cluzet.fr)
 
-- 📫  How to reach me **jo@cluzet.fr**
+- 📫  Reach me by mail : **jo@cluzet.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
