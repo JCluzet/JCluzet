@@ -6,13 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/jcluzet" target="blank"><img src="https://img.shields.io/twitter/follow/jcluzet?logo=twitter&style=for-the-badge" alt="jcluzet" /></a> </p>
 
-- 🔭 I'm studying at **42 School**
+- 💻  A freelance developer from Paris
 
-- 🌱 I’m currently learning **C, C++, ASM, Algo for Sorting, etc**
+- 🔭  I'm studying at **42 School**
 
-- 📄 Visit my website [Cluzet.fr](Cluzet.fr)
+- 🌱  I’m currently learning **C, C++, ASM, Algo for Sorting, etc**
 
-- 📫 How to reach me **jo@cluzet.fr**
+- 📄  Visit my website [Cluzet.fr](Cluzet.fr)
+
+- 📫  How to reach me **jo@cluzet.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
