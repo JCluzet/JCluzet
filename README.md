@@ -2,9 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcluzet&label=Profile%20views&color=0e75b6&style=flat" alt="jcluzet" /> </p>
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jcluzet)](https://github.com/JaeSeoKim/badge42)
+
 <p align="left"> <a href="https://twitter.com/jcluzet" target="blank"><img src="https://img.shields.io/twitter/follow/jcluzet?logo=twitter&style=for-the-badge" alt="jcluzet" /></a> </p>
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jcluzet)](https://github.com/JaeSeoKim/badge42)
 
 - 💻  A freelance developer from Paris
 
