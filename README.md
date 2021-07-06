@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/jcluzet" target="blank"><img src="https://img.shields.io/twitter/follow/jcluzet?logo=twitter&style=for-the-badge" alt="jcluzet" /></a> </p>
 
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jcluzet)](https://github.com/JaeSeoKim/badge42)
+
 - 💻  A freelance developer from Paris
 
 - 🔭  I'm studying at **42 School**
