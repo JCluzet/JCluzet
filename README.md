@@ -9,9 +9,9 @@
 
 - 🌱  I’m currently learning **C, C++, ASM, Algo for Sorting, etc**
 
-- 📄  Visit my website [Cluzet.fr](Cluzet.fr)
+- 📄  Visit my website [Cluzet.fr](https://Cluzet.fr)
 
-- 📫  Reach me here : [link.cluzet.fr](link.cluzet.fr)
+- 📫  Reach me here : [link.cluzet.fr](https://link.cluzet.fr)
 
 
 <h3 align="left">Languages and Tools:</h3>
