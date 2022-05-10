@@ -2,14 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcluzet&label=Profile%20views&color=0e75b6&style=flat" alt="jcluzet" /> </p>
 
+----------------------------
 
-- 💻  A freelance developer from Paris
-
-- 🔭  I'm studying at **42 School**
-
-- 🌱  I’m currently learning **C, C++, ASM, Algo for Sorting, etc**
-
-- 📄  Visit my website [Cluzet.fr](https://Cluzet.fr)
+- 🛂 GradeMe Tool : [GradeMe](https://www.grademe.fr)
 
 - 📫  Reach me here : [link.cluzet.fr](https://link.cluzet.fr)
 
