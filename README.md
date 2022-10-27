@@ -4,6 +4,8 @@
 
 <p align="center">
 
+- 🤔 Pour qui je me prend : j'avoue je ne sais pas trop pour qui je me prends, effectivement je ne suis que le larbin de Stan Desseau (sdesseau), c'est mon grand maitre et je ne sais pas coder, c'est lui qui a tout ecrit et je m'approprie juste sa gloire, pardonnez mois je ne sais pas pour qui je me prend...
+
 - 🛂 GradeMe Tool : [GradeMe](https://www.grademe.fr)
 
 - 📖 Tutorial about Inception 42 Project : [GradeMe Tutorial](https://tuto.grademe.fr/inception)
