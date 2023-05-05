@@ -1,4 +1,6 @@
-![Joo](https://s10.gifyu.com/images/Sans-titrea05224e795e1cbcb.gif)
+
+
+![Joo](https://grademe.fr/logojcluzet.gif)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jcluzet&label=Profile%20views&color=0e75b6&style=flat" alt="jcluzet" /> </p>
 
 
